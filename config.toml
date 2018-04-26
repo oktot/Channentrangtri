@@ -1,0 +1,16 @@
+siteTitle = 'Bình hoa trang trí'
+siteDescr = 'Bình hoa trang trí của Midorishop'
+siteDescription = "Bình hoa trang trí của Midorishop bền và đẹp"
+siteUrl = "http://binhhoatrangtri.com"
+siteBandcampUrl = 'binhhoatrangtri.com'
+siteAddress = '168A VÕ THỊ SÁU, P.8, Q.3, TP.HCM'
+siteAddress2 = '0918 870 780 - Mrs Nguyên'
+siteSoundcloudUrl = 'https://soundcloud.com/sentimony'
+siteFacebookUrl = 'https://www.facebook.com/dotrangtricuoi'
+siteDiscogsUrl = 'https://www.discogs.com/label/82598-Sentimony-Records'
+siteTwitterUrl = 'https://twitter.com/nihon_ne'
+siteGoogleplusUrl = ''
+siteGithubUrl = 'https://github.com/nihonne'
+siteYoutubeUrl = 'https://www.youtube.com/channel/UCi7yyqrKPqbYwT-pvmqsgYw'
+
+linkPrefix = '/'
