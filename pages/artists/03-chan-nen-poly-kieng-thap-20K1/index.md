@@ -1,18 +1,18 @@
 ---
 priority: c
-title: Tủ lạnh Hitachi Inverter 670L400L loại 4,5,6 cánh khử mùi diệt khuẩn, làm đá tự động
+title: Chân nến poly kiếng thấp 20K1(CN41)
 layout: ArtistPage
 category: artists
-path: '/artists/Hitachi-670L-400L/'
-key: 179
+path: '/artists/chan-nen-poly-kieng-thap-20K1/'
+key: chan-nen-poly-kieng-thap-20K1
 
-meta: Máy giặt Hitachi
-keywords: Máy giặt Hitachi, Phú Quốc Trà Sữa
+meta: Chân nến poly kiếng thấp 20K1(CN41)
+keywords: chân nến cổ điển, chân nến poly, Chân nến poly kiếng thấp 20K1(CN41)
 
-location: Japan
-prices: 8,000
-orders: tel:+84938878827
-messages: http://m.me/phuquoctrasua
+location: 
+prices: Call
+orders: tel:+84918870780
+messages: http://m.me/dotrangtricuoi
 website: 
 YoutubeID: 
 bandcamp: 
@@ -26,19 +26,22 @@ discogs:
 
 ##Địa chỉ & Đặt mua online giao tận nơi
 
-- Địa chỉ: Tổ 03, Khu phố Bà Tri, Phường Tân Hiệp, Thị xã Tân Uyên, Bình Dương
-- Điện thoại giao ngay: **093-887-8827** Huỳnh Nga.
+**Thông Tin Shop 1 **
+
+Address: 168A Võ Thị Sáu, Phường 8, Quận 3, TP.HCM Phone: (08)38204281; Fax: (08)38204280. Email: nguyenle@midorishop.com.vn Working Days/Hours: Từ 8h - 21h | Từ thứ 2 - Chủ nhật.
+
+**Thông Tin Shop 2 **
+
+Address: 118/49 Bạch Đằng, P24, Q.Bình Thạnh, TP.HCM. Phone: 0918.870.780 Email: nguyenle@midorishop.com.vn Working Days/Hours: Từ 8h - 17h | Từ thứ 2 - Thứ 7.
+
+Hoặc liên hệ theo số điện thoại được ghi dưới đây 0918 870 780 (Thảo Nguyên).
 
 ## THÔNG TIN SP
 
-Chuyên tủ lạnh nhật bãi Hitachi loại có inverter, full chức năng như khử mùi diệt khuẩn, làm lạnh bù ẩm, đa chiều, hiển thị bằng màn hình điện từ, kiểm soát nhiệt độ từng ngăn, công nghệ hút chân không, ... . Đầy đủ các loại từ 400L cho đến 670L thiết kế từ 4-6 cánh. Có inverter tiết kiệm điện nhất ở mức 300-500 số điện/1 năm.
+**Chân Nến poly chân tròn F221 (CN43)**
 
-Tủ lanh đời cao, thiết kế để đồ thông minh, hình thức đẹp sẽ mang đến cho bạn trải nghiệm thú vị nhất
+Màu sắc: Vàng, Bạc
 
-**Xin hãy lưu ý:** Giá ghi phía trên không phải và áp dụng cho tất cả (giá thay đổi tùy thuộc vào từng model, dung tích, độ mới - chất lượng của tủ lạnh)
+Kích thước: 23.5x11cm
 
-Tủ lạnh Hitachi có giá khởi điểm từ 8.000.000
-
-Tất cả Tủ lạnh đăng bán đều đã được chạy thử và kiểm tra rất kỹ trước khi đến tay khách hàng + chế độ bảo hành 12 tháng và hỗ trợ sau bảo hành.
-
-Liên hệ với chúng tôi để được tư vấn và hỗ trợ hướng dẫn sử dụng tủ lạnh Nhật nội địa Hitachi.
+Hãy liên hệ với chúng tôi để được tư vấn mua hàng. Nhận giao hàng tận nơi.

@@ -4,13 +4,13 @@ title: Chân Nến poly chân tròn F221 (CN43)
 layout: ArtistPage
 category: artists
 path: '/artists/chan-nen-poly-chan-tron-F221/'
-key: 182
+key: chan-nen-poly-chan-tron-F221
 
 meta: Chân Nến poly chân tròn F221 (CN43)
 keywords: chân nến cổ điển, chân nến poly
 
 location: 
-prices: 
+prices: Call
 orders: tel:+84918870780
 messages: http://m.me/dotrangtricuoi
 website: 
@@ -39,6 +39,9 @@ Hoặc liên hệ theo số điện thoại được ghi dưới đây 0918 870 
 ## THÔNG TIN SP
 
 **Chân Nến poly chân tròn F221 (CN43)**
+
 Màu sắc: Vàng, Bạc
-Kích thước: 36cm , 44cm, 52cm
+
+Kích thước: 19x10cm
+
 Nhận giao hàng tận nơi.
