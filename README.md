@@ -1,3 +1,3 @@
 # Channentrangtri
-Channentrangtri  http://channentrangtri.com
+Channentrangtri  https://channentrangtri.com
 
