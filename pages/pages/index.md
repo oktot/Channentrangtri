@@ -20,7 +20,21 @@ Sau đó, hãy tham khảo về quy trình thanh toán và vận chuyển của 
 
 # Mọi vấn đề phát sinh khác
 
-Hãy liên hệ trực tiếp chúng tôi theo số điện thoại được ghi dưới đây [**0918 870 780**](tel:+84918870780) (Thảo Nguyên). Hãy cẩn trọng bạn nhé, nếu bạn bất chợt gọi tới và bị hỏi những câu hỏi đầy quan tâm liên tiếp xin đừng choáng ngợp, bởi quan tâm đến cảm nhận của khách hàng là mối quan tâm hàng đầu của Chân nến trang trí - Thương hiệu chân nên cao cấp do Midorishop cung cấp.
+Hãy liên hệ trực tiếp chúng tôi theo địa chỉ sau
+**Thông Tin Shop 1 **
+
+ Address: 168A Võ Thị Sáu, Phường 8, Quận 3, TP.HCM
+ Phone: (08)38204281; Fax: (08)38204280.
+ Email: nguyenle@midorishop.com.vn
+ Working Days/Hours: Từ 8h - 21h | Từ thứ 2 - Chủ nhật. 
+ **Thông Tin Shop 2 **
+ 
+ Address: 118/49 Bạch Đằng, P24, Q.Bình Thạnh, TP.HCM.
+ Phone: 0918.870.780
+ Email: nguyenle@midorishop.com.vn
+ Working Days/Hours: Từ 8h - 17h | Từ thứ 2 - Thứ 7.
+ 
+Hoặc liên hệ theo số điện thoại được ghi dưới đây [**0918 870 780**](tel:+84918870780) (Thảo Nguyên). 
 
 Trong trường hợp mà gọi mãi vẫn không được, bạn hãy truy cập vào địa chỉ Facebook sau đây [**Bình hoa trang trí - Thương hiệu bình hoa cao cấp do Midorishop cung cấp**](https://www.facebook.com/dotrangtricuoi) đội ngũ quản trị sẽ tìm hiểu ra những vấn đề gặp phải và cố gắng khắc phục, hỗ trợ bạn trong suốt quá trình đó. Hãy an tâm tận hưởng dịch vụ của Chân nến trang trí - Thương hiệu Chân nến cao cấp do Midorishop cung cấp bạn nhé.
 
