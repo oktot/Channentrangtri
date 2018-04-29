@@ -40,5 +40,5 @@ Hoặc liên hệ theo số điện thoại được ghi dưới đây 0918 870 
 
 **Chân Nến poly chân tròn F221 (CN43)**
 Màu sắc: Vàng, Bạc
-Kích thước: 36cm , 44cm, 52cm
+Kích thước: 19x10cm
 Nhận giao hàng tận nơi.
