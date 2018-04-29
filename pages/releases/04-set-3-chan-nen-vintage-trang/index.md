@@ -1,18 +1,18 @@
 ---
 id: 4
-title: Tủ lạnh Aqua 90 lít AQR95AR
+title: Set 3 chân nến vintage trắng (CN04)
 layout: ReleasePage
 category: releases
-path: '/releases/Aqua-90/'
-key: Aqua90
+path: '/releases/set-3-chan-nen-vintage-trang/'
+key: set-3-chan-nen-vintage-trang
 
-meta: Tủ lạnh Aqua 90 lít AQR95AR
-keywords: Tủ lạnh Aqua 90 lít AQR95AR, Phú Quốc Trà Sữa
+meta: Set 3 chân nến vintage trắng (CN04)
+keywords: Set 3 chân nến vintage trắng (CN04), Chân nến bạc, Chân nến
 
-location: VN
-prices: 2,590
-orders: tel:+84938878827
-messages: http://m.me/phuquoctrasua
+location: 
+prices: Call
+orders: tel:+84918870780
+messages: http://m.me/dotrangtricuoi
 website: 
 YoutubeID: 
 bandcamp: 
@@ -24,40 +24,24 @@ youtube:
 discogs: 
 ---
 
-## Địa chỉ & Đặt mua online giao tận nơi
-
-- Địa chỉ: Tổ 03, Khu phố Bà Tri, Phường Tân Hiệp, Thị xã Tân Uyên, Bình Dương
-- Điện thoại giao ngay: **093-887-8827** Huỳnh Nga.
-
-
 ## THÔNG TIN SP
 
-**Đặc điểm sản phẩm**
+**Set 3 chân nến vintage trắng (CN04)**
 
-Dung tích sử dụng:90 lít
+Màu sắc: Vàng, Bạc
 
-Số người sử dụng:1 - 3 người
+Kích thước: cm
 
-Dung tích ngăn lạnh:90 lít
+Nhận giao hàng tận nơi.
 
-Công nghệ Inverter:Tủ lạnh thường
+##Địa chỉ & Đặt mua online giao tận nơi
 
-Điện năng tiêu thụ:~ 0.8 kW/ngày
+**Thông Tin Shop 1 **
 
-Công nghệ làm lạnh:Trực tiếp
+Address: 168A Võ Thị Sáu, Phường 8, Quận 3, TP.HCM Phone: (08)38204281; Fax: (08)38204280. Email: nguyenle@midorishop.com.vn Working Days/Hours: Từ 8h - 21h | Từ thứ 2 - Chủ nhật.
 
-Kiểu tủ:Mini
+**Thông Tin Shop 2 **
 
-Số cửa:1 cửa
+Address: 118/49 Bạch Đằng, P24, Q.Bình Thạnh, TP.HCM. Phone: 0918.870.780 Email: nguyenle@midorishop.com.vn Working Days/Hours: Từ 8h - 17h | Từ thứ 2 - Thứ 7.
 
-Chất liệu cửa tủ lạnh:Sơn tĩnh điện
-
-Chất liệu khay ngăn:Nhựa
-
-Kích thước - Khối lượng:Cao 79.5 cm - Rộng 47.6 cm - Sâu 49.4 cm - Nặng 21 kg
-
-Đèn chiếu sáng:Đèn LED
-
-Nơi sản xuất:Việt Nam
-
-Năm ra mắt:2014
+Hoặc liên hệ theo số điện thoại được ghi dưới đây 0918 870 780 (Thảo Nguyên).
