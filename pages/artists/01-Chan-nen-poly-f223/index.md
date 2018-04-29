@@ -1,18 +1,18 @@
 ---
 priority: c
-title: Tủ lạnh Panasonic 300L600L loại 5,6 cánh có inverter, làm đá tự động, khử mùi và diệt khuẩn
+title: Chân nến poly chân vuông F223 (CN44)
 layout: ArtistPage
 category: artists
-path: '/artists/Panasonic-300L-600L/'
-key: 181
+path: '/artists/01-Chan-nen-poly-f223/'
+key: chan-nen-poly-chan-vuong-F223
 
-meta: Máy giặt Panasonic
-keywords: Máy giặt Panasonic, Phú Quốc Trà Sữa
+meta: Chân nến poly chân vuông F223 (CN44)
+keywords: chan nen, chân nến cổ điển, chân nến poly
 
-location: Japan
-prices: 8,000
-orders: tel:+84938878827
-messages: http://m.me/phuquoctrasua
+location: 
+prices: Call
+orders: tel:+84918870780
+messages: http://m.me/dotrangtricuoi
 website: 
 YoutubeID: 
 bandcamp: 
@@ -26,17 +26,22 @@ discogs:
 
 ##Địa chỉ & Đặt mua online giao tận nơi
 
-- Địa chỉ: Tổ 03, Khu phố Bà Tri, Phường Tân Hiệp, Thị xã Tân Uyên, Bình Dương
-- Điện thoại giao ngay: **093-887-8827** Huỳnh Nga.
+**Thông Tin Shop 1 **
+
+Address: 168A Võ Thị Sáu, Phường 8, Quận 3, TP.HCM Phone: (08)38204281; Fax: (08)38204280. Email: nguyenle@midorishop.com.vn Working Days/Hours: Từ 8h - 21h | Từ thứ 2 - Chủ nhật.
+
+**Thông Tin Shop 2 **
+
+Address: 118/49 Bạch Đằng, P24, Q.Bình Thạnh, TP.HCM. Phone: 0918.870.780 Email: nguyenle@midorishop.com.vn Working Days/Hours: Từ 8h - 17h | Từ thứ 2 - Thứ 7.
+
+Hoặc liên hệ theo số điện thoại được ghi dưới đây 0918 870 780 (Thảo Nguyên).
 
 ## THÔNG TIN SP
 
-Chuyên tủ lạnh Panasonic hãng bãi đời cao dung tích từ 300L-600L, tùy chọn loại từ 4-6 cánh. Tủ có đầy đủ các chức năng như inverter tiết kiệm điện, econavi, làm đá tự động, kiểm soát nhiệt độ bằng vi xử lý, làm lạnh đa chiều, hiển thị bằng màn hình LED, thiết lập và đặt nhiệt độ từng phòng, hoạt động siêu êm, khả năng bảo quản thực phẩm lâu hơn, ...
+**Chân nến poly chân vuông F223 (CN44)**
 
-**Xin hãy lưu ý:** Giá ghi phía trên không phải là cố định và áp dụng cho tất cả (giá thay đổi tùy thuộc vào từng model, dung tích, độ mới - chất lượng của tủ lạnh)
+Màu sắc: Vàng, Bạc
 
-Giá bắt đầu từ 8.000.000
+Kích thước: 25x11cm
 
-Cam kết hàng đến tay khách hàng đều đã được chạy thử và kiểm tra rất kỹ + bảo hành 12 tháng và hỗ trợ cả sau khi hết bảo hành.
-
-Liên hệ ngay với chúng tôi để được tư vấn mua hàng và tư vấn sử dụng tủ lạnh nhật
+Liên hệ ngay với chúng tôi để được tư vấn mua hàng và tư vấn sử dụng, Nhận giao hàng tận nơi.
