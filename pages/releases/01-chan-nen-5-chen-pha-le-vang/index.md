@@ -1,18 +1,18 @@
 ---
 id: 1
-title: Tủ lạnh Beko 90 lít RS9050P
+title: Chân nến 5 chén pha lê vàng(CN21)
 layout: ReleasePage
 category: releases
-path: '/releases/Beko-90/'
-key: Beko90
+path: '/releases/chan-nen-5-chen-pha-le-vang/'
+key: chan-nen-5-chen-pha-le-vang
 
-meta: Tủ lạnh Beko 90 lít RS9050P
-keywords: Tủ lạnh Beko 90 lít RS9050P, Phú Quốc Trà Sữa
+meta: Chân nến 5 chén pha lê vàng(CN21)
+keywords: Chân nến 5 chén pha lê vàng(CN21), Chân nến
 
-location: China
-prices: 2.890
-orders: tel:+84938878827
-messages: http://m.me/phuquoctrasua
+location: 
+prices: Call
+orders: tel:+84918870780
+messages: http://m.me/dotrangtricuoi
 website: 
 YoutubeID: 
 bandcamp: 
@@ -24,40 +24,24 @@ youtube:
 discogs: 
 ---
 
-## Địa chỉ & Đặt mua online giao tận nơi
+##Địa chỉ & Đặt mua online giao tận nơi
 
-- Địa chỉ: Tổ 03, Khu phố Bà Tri, Phường Tân Hiệp, Thị xã Tân Uyên, Bình Dương
-- Điện thoại giao ngay: **093-887-8827** Huỳnh Nga.
+**Thông Tin Shop 1 **
 
+Address: 168A Võ Thị Sáu, Phường 8, Quận 3, TP.HCM Phone: (08)38204281; Fax: (08)38204280. Email: nguyenle@midorishop.com.vn Working Days/Hours: Từ 8h - 21h | Từ thứ 2 - Chủ nhật.
+
+**Thông Tin Shop 2 **
+
+Address: 118/49 Bạch Đằng, P24, Q.Bình Thạnh, TP.HCM. Phone: 0918.870.780 Email: nguyenle@midorishop.com.vn Working Days/Hours: Từ 8h - 17h | Từ thứ 2 - Thứ 7.
+
+Hoặc liên hệ theo số điện thoại được ghi dưới đây 0918 870 780 (Thảo Nguyên).
 
 ## THÔNG TIN SP
 
-**Đặc điểm sản phẩm**
+**Chân nến 5 chén pha lê vàng(CN21)**
 
-Dung tích tổng:90 lít
+Màu sắc: Vàng, Bạc
 
-Số người sử dụng:1 - 3 người
+Kích thước: cm
 
-Công nghệ Inverter:Tủ lạnh thường
-
-Điện năng tiêu thụ:~ 0.71 kW/ngày
-
-Công nghệ làm lạnh:Trực tiếp
-
-Tiện ích:Làm đá nhanh
-
-Kiểu tủ:Mini
-
-Số cửa:1 cửa
-
-Chất liệu cửa tủ lạnh:Thép không gỉ
-
-Chất liệu khay ngăn:Kính chịu lực
-
-Kích thước - Khối lượng:Ngang 48 cm - Sâu 52 cm - Cao 85 cm - Nặng 21 kg
-
-Đèn chiếu sáng:Đèn sợi tóc
-
-Nơi sản xuất:Trung Quốc
-
-Năm ra mắt:2017
+Nhận giao hàng tận nơi.
