@@ -38,10 +38,12 @@ Hoặc liên hệ theo số điện thoại được ghi dưới đây 0918 870 
 
 ## THÔNG TIN SP
 
-**Chân nến 5 chén pha lê vàng(CN21)**
+**Chân nến phale 5 tay**
 
 Màu sắc: Vàng, Bạc
 
-Kích thước: cm
+Chân nến gồm 5 tay có 5 chén phale.
+
+Kích thuớc: cao 80cm
 
 Nhận giao hàng tận nơi.
