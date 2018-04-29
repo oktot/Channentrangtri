@@ -26,11 +26,11 @@ discogs:
 
 ##Địa chỉ & Đặt mua online giao tận nơi
 
-**Thông Tin Shop 1 **
+**Thông Tin Shop 1**
 
 Address: 168A Võ Thị Sáu, Phường 8, Quận 3, TP.HCM Phone: (08)38204281; Fax: (08)38204280. Email: nguyenle@midorishop.com.vn Working Days/Hours: Từ 8h - 21h | Từ thứ 2 - Chủ nhật.
 
-**Thông Tin Shop 2 **
+**Thông Tin Shop 2**
 
 Address: 118/49 Bạch Đằng, P24, Q.Bình Thạnh, TP.HCM. Phone: 0918.870.780 Email: nguyenle@midorishop.com.vn Working Days/Hours: Từ 8h - 17h | Từ thứ 2 - Thứ 7.
 
