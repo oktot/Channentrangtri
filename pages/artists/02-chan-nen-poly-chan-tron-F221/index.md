@@ -4,13 +4,13 @@ title: Chân Nến poly chân tròn F221 (CN43)
 layout: ArtistPage
 category: artists
 path: '/artists/chan-nen-poly-chan-tron-F221/'
-key: 182
+key: chan-nen-poly-chan-tron-F221
 
 meta: Chân Nến poly chân tròn F221 (CN43)
 keywords: chân nến cổ điển, chân nến poly
 
 location: 
-prices: 
+prices: Call
 orders: tel:+84918870780
 messages: http://m.me/dotrangtricuoi
 website: 
