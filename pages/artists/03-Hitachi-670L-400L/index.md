@@ -42,6 +42,6 @@ Hoặc liên hệ theo số điện thoại được ghi dưới đây 0918 870 
 
 Màu sắc: Vàng, Bạc
 
-Kích thước: 19x10cm
+Kích thước: 23.5x11cm
 
 Hãy liên hệ với chúng tôi để được tư vấn mua hàng. Nhận giao hàng tận nơi.
