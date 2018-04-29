@@ -20,13 +20,15 @@ Sau đó, hãy tham khảo về quy trình thanh toán và vận chuyển của 
 
 # Mọi vấn đề phát sinh khác
 
-Hãy liên hệ trực tiếp chúng tôi theo địa chỉ sau
+Hãy liên hệ trực tiếp chúng tôi theo địa chỉ sau:
+
 **Thông Tin Shop 1 **
 
  Address: 168A Võ Thị Sáu, Phường 8, Quận 3, TP.HCM
  Phone: (08)38204281; Fax: (08)38204280.
  Email: nguyenle@midorishop.com.vn
  Working Days/Hours: Từ 8h - 21h | Từ thứ 2 - Chủ nhật. 
+ 
  **Thông Tin Shop 2 **
  
  Address: 118/49 Bạch Đằng, P24, Q.Bình Thạnh, TP.HCM.
