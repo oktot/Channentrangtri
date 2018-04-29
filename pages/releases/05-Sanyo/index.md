@@ -1,18 +1,18 @@
 ---
 id: 5
-title: Tủ lạnh Sanyo Mini 50 lít SR5KR
+title: Set 3 chân nến inox (CN09)
 layout: ReleasePage
 category: releases
-path: '/releases/Sanyo50/'
-key: sanyo50
+path: '/releases/set-3-chan-nen-inox/'
+key: set-3-chan-nen-inox
 
-meta: Tủ lạnh Sanyo Mini 50 lít SR5KR
-keywords: Tủ lạnh Sanyo Mini 50 lít SR5KR, Phú Quốc Trà Sữa
+meta: Set 3 chân nến inox (CN09)
+keywords: Set 3 chân nến inox (CN09), chân nến, chan nen trang tri
 
-location: VN
-prices: 2,590
-orders: tel:+84938878827
-messages: http://m.me/phuquoctrasua
+location: 
+prices: Call
+orders: tel:+84918870780
+messages: http://m.me/dotrangtricuoi
 website: 
 YoutubeID: 
 bandcamp: 
@@ -24,40 +24,24 @@ youtube:
 discogs: 
 ---
 
-## Địa chỉ & Đặt mua online giao tận nơi
-
-- Địa chỉ: Tổ 03, Khu phố Bà Tri, Phường Tân Hiệp, Thị xã Tân Uyên, Bình Dương
-- Điện thoại giao ngay: **093-887-8827** Huỳnh Nga.
-
-
 ## THÔNG TIN SP
 
-**Đặc điểm sản phẩm**
+**Set 3 chân nến inox (CN09)**
 
-Dung tích tổng:50 lít
+Màu sắc: Vàng, Bạc
 
-Dung tích sử dụng:50 lít
+Kích thước: cm
 
-Số người sử dụng:1 - 3 người
+Nhận giao hàng tận nơi.
 
-Dung tích ngăn lạnh:50 lít
+##Địa chỉ & Đặt mua online giao tận nơi
 
-Công nghệ Inverter:Tủ lạnh thường
+**Thông Tin Shop 1 **
 
-Công nghệ làm lạnh:Trực tiếp
+Address: 168A Võ Thị Sáu, Phường 8, Quận 3, TP.HCM Phone: (08)38204281; Fax: (08)38204280. Email: nguyenle@midorishop.com.vn Working Days/Hours: Từ 8h - 21h | Từ thứ 2 - Chủ nhật.
 
-Kiểu tủ:Mini
+**Thông Tin Shop 2 **
 
-Số cửa:1 cửa
+Address: 118/49 Bạch Đằng, P24, Q.Bình Thạnh, TP.HCM. Phone: 0918.870.780 Email: nguyenle@midorishop.com.vn Working Days/Hours: Từ 8h - 17h | Từ thứ 2 - Thứ 7.
 
-Chất liệu cửa tủ lạnh:Sơn tĩnh điện
-
-Chất liệu khay ngăn:Nhựa
-
-Kích thước - Khối lượng:Cao 54 cm - Rộng 47.6 cm - Sâu 49.4 cm - Nặng 17 kg
-
-Đèn chiếu sáng:Đèn sợi tóc
-
-Nơi sản xuất:Việt Nam
-
-Năm sản xuất:2013
+Hoặc liên hệ theo số điện thoại được ghi dưới đây 0918 870 780 (Thảo Nguyên).
