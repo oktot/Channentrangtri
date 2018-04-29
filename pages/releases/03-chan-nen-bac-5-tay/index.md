@@ -3,7 +3,7 @@ id: 3
 title: Chân nến bạc 5 tay (CN07)
 layout: ReleasePage
 category: releases
-path: '/releases/chan-nen-bac-5-tay/'
+path: '/releases/03-chan-nen-bac-5-tay/'
 key: chan-nen-bac-5-tay
 
 meta: Chân nến bạc 5 tay (CN07)
