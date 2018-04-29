@@ -1,18 +1,18 @@
 ---
 priority: c
-title: Tủ lạnh Mitsubishi có inverter từ 300L680L loại 3,6 cánh cấp đông mềm, khử khuẩn
+title: Chân Nến poly chân tròn F221 (CN43)
 layout: ArtistPage
 category: artists
-path: '/artists/Mitsubishi-300L-680L/'
+path: '/artists/chan-nen-poly-chan-tron-F221/'
 key: 182
 
-meta: Máy giặt Mitsubishi
-keywords: Máy giặt Mitsubishi, Phú Quốc Trà Sữa
+meta: Chân Nến poly chân tròn F221 (CN43)
+keywords: chân nến cổ điển, chân nến poly
 
-location: Japan
-prices: 8,000
-orders: tel:+84938878827
-messages: http://m.me/phuquoctrasua
+location: 
+prices: 
+orders: tel:+84918870780
+messages: http://m.me/dotrangtricuoi
 website: 
 YoutubeID: 
 bandcamp: 
@@ -26,15 +26,19 @@ discogs:
 
 ##Địa chỉ & Đặt mua online giao tận nơi
 
-- Địa chỉ: Tổ 03, Khu phố Bà Tri, Phường Tân Hiệp, Thị xã Tân Uyên, Bình Dương
-- Điện thoại giao ngay: **093-887-8827** Huỳnh Nga.
+**Thông Tin Shop 1 **
+
+Address: 168A Võ Thị Sáu, Phường 8, Quận 3, TP.HCM Phone: (08)38204281; Fax: (08)38204280. Email: nguyenle@midorishop.com.vn Working Days/Hours: Từ 8h - 21h | Từ thứ 2 - Chủ nhật.
+
+**Thông Tin Shop 2 **
+
+Address: 118/49 Bạch Đằng, P24, Q.Bình Thạnh, TP.HCM. Phone: 0918.870.780 Email: nguyenle@midorishop.com.vn Working Days/Hours: Từ 8h - 17h | Từ thứ 2 - Thứ 7.
+
+Hoặc liên hệ theo số điện thoại được ghi dưới đây 0918 870 780 (Thảo Nguyên).
 
 ## THÔNG TIN SP
 
-Chuyên tủ lạnh nhật nội địa thương hiệu Mitsubishi đời cao, tủ có inverter tiết kiệm điện, có chức năng cấp đông mềm, điều khiển nhiệt độ từng ngăn, làm đá tự động, làm lạnh không khô, làm lạnh đa chiều, kiểm soát và đặt nhiệt độ bằng cảm biến và vi xử lý. Có đầy đủ các ngăn chứa đồ như chai lọ, thực phẩm động lạnh, ...
-
-Giá tủ lạnh Mitsubishi khởi điểm từ 8.000.000
-
-Tất cả tủ lạnh đều là hàng chất lượng cao, test và chạy thử trước khi đến tay khách hàng + bảo hành 12 tháng và hỗ trợ sau khi hết bảo hành.
-
-Liên hệ với chúng tôi ngay để có thêm thông tin về sản phẩm và được tư vấn sử dụng.
+**Chân Nến poly chân tròn F221 (CN43)**
+Màu sắc: Vàng, Bạc
+Kích thước: 36cm , 44cm, 52cm
+Nhận giao hàng tận nơi.
