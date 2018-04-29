@@ -1,7 +1,7 @@
 ---
-title: 'Bình hoa thấp'
+title: 'Chân nến kim loại'
 layout: Releases
 path: '/releases/'
-meta: Bình hoa thấp
-keywords: Bình hoa thấp
+meta: Chân nến kim loại
+keywords: Chân nến kim loại
 ---
