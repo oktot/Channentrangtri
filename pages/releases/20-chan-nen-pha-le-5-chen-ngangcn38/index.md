@@ -1,13 +1,13 @@
 ﻿---
-id: 6
-title: Chân nến pha lê (CN03)
+id: 20
+title: Chân nến pha lê 5 chén ngang(CN38)
 layout: ReleasePage
 category: releases
-path: '/releases/chan-nen-pha-le-cn03/'
-key: chan-nen-pha-le-cn03
+path: '/releases/chan-nen-pha-le-5-chen-ngangcn38/'
+key: chan-nen-pha-le-5-chen-ngangcn38
 
-meta: Chân nến pha lê (CN03)
-keywords: Chân nến pha lê (CN03), chân nến, chan nen trang tri
+meta: Chân nến pha lê 5 chén ngang(CN38)
+keywords: Chân nến pha lê 5 chén ngang(CN38), chân nến, chan nen trang tri, Chân nến pha lê, chan nen midorishop
 
 location: 
 prices: Call
@@ -26,9 +26,11 @@ discogs:
 
 ## THÔNG TIN SP
 
-**Chân nến pha lê (CN03)**
-Với trên 80 mẫu chân nến pha lê đẹp và nhiều loại: Chân nến 1 tai, chân nến 2 tai, chân nến 3 tai, chân nến 5 tại thì quý khách thoải mái lựa chọn sản phẩm phù hợp với mình. Vì quá nhiều mẫu với kích thước khác nhau chúng tôi không để giá cụ thể từng sản phẩm được, vì vậy chúng tôi cung cấp hình sản phẩm, quý khách lựa chọn rồi chuyển hình mẫu cho chúng tôi qua số Zalo 0918.870.780 chúng tôi sẽ thông báo kích cỡ và giá cụ thể cho quý khách. 
+**Chân nến pha lê 5 chén ngang(CN38)**
+
 Màu sắc: Vàng, Bạc
+
+Chân Nến pha lê 5 chén ngang - Chuyên dùng phối cảnh trang trí tiệc cưới, trang trí tiệc sinh nhật cho không gian thêm ấm cúng, lãng mạn
 
 Kích thước: cm
 

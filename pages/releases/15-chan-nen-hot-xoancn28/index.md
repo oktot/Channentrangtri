@@ -1,13 +1,13 @@
 ﻿---
-id: 6
-title: Chân nến pha lê (CN03)
+id: 15
+title: Chân nến hột xoàn(CN28)
 layout: ReleasePage
 category: releases
-path: '/releases/chan-nen-pha-le-cn03/'
-key: chan-nen-pha-le-cn03
+path: '/releases/chan-nen-hot-xoancn28/'
+key: chan-nen-hot-xoancn28
 
-meta: Chân nến pha lê (CN03)
-keywords: Chân nến pha lê (CN03), chân nến, chan nen trang tri
+meta: Chân nến hột xoàn(CN28)
+keywords: Chân nến hột xoàn(CN28), chân nến, chan nen trang tri
 
 location: 
 prices: Call
@@ -26,8 +26,12 @@ discogs:
 
 ## THÔNG TIN SP
 
-**Chân nến pha lê (CN03)**
-Với trên 80 mẫu chân nến pha lê đẹp và nhiều loại: Chân nến 1 tai, chân nến 2 tai, chân nến 3 tai, chân nến 5 tại thì quý khách thoải mái lựa chọn sản phẩm phù hợp với mình. Vì quá nhiều mẫu với kích thước khác nhau chúng tôi không để giá cụ thể từng sản phẩm được, vì vậy chúng tôi cung cấp hình sản phẩm, quý khách lựa chọn rồi chuyển hình mẫu cho chúng tôi qua số Zalo 0918.870.780 chúng tôi sẽ thông báo kích cỡ và giá cụ thể cho quý khách. 
+**Chân nến hột xoàn(CN28)**
+
+Chân nến dược sáng tạo theo hình ảnh hột xoàn - tinh tế. Dùng trang trí bàn học, làm việc, phòng ngủ, quà tặng......
+
+Sản phẩm được phủ sơn tĩnh điện chống trầy xướt và gỉ sét giúp tăng độ bền ..
+
 Màu sắc: Vàng, Bạc
 
 Kích thước: cm

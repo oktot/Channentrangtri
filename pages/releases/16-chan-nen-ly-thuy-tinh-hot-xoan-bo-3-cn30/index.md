@@ -1,13 +1,13 @@
 ﻿---
-id: 6
-title: Chân nến pha lê (CN03)
+id: 16
+title: Chân nến ly thủy tinh hột xoàn bộ 3(CN30)
 layout: ReleasePage
 category: releases
-path: '/releases/chan-nen-pha-le-cn03/'
-key: chan-nen-pha-le-cn03
+path: '/releases/chan-nen-ly-thuy-tinh-hot-xoan-bo-3-cn30/'
+key: chan-nen-ly-thuy-tinh-hot-xoan-bo-3-cn30
 
-meta: Chân nến pha lê (CN03)
-keywords: Chân nến pha lê (CN03), chân nến, chan nen trang tri
+meta: Chân nến ly thủy tinh hột xoàn bộ 3(CN30)
+keywords: Chân nến ly thủy tinh hột xoàn bộ 3(CN30), chân nến, chan nen trang tri, chan nen midorishop
 
 location: 
 prices: Call
@@ -26,8 +26,8 @@ discogs:
 
 ## THÔNG TIN SP
 
-**Chân nến pha lê (CN03)**
-Với trên 80 mẫu chân nến pha lê đẹp và nhiều loại: Chân nến 1 tai, chân nến 2 tai, chân nến 3 tai, chân nến 5 tại thì quý khách thoải mái lựa chọn sản phẩm phù hợp với mình. Vì quá nhiều mẫu với kích thước khác nhau chúng tôi không để giá cụ thể từng sản phẩm được, vì vậy chúng tôi cung cấp hình sản phẩm, quý khách lựa chọn rồi chuyển hình mẫu cho chúng tôi qua số Zalo 0918.870.780 chúng tôi sẽ thông báo kích cỡ và giá cụ thể cho quý khách. 
+**Chân nến ly thủy tinh hột xoàn bộ 3(CN30)**
+Chân nến ly thủy tinh hột xoàn sẽ giúp tôn vinh thêm vẻ đẹp ngôi nhà của bạn
 Màu sắc: Vàng, Bạc
 
 Kích thước: cm
