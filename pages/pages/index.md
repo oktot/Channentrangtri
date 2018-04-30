@@ -38,7 +38,7 @@ Hãy liên hệ trực tiếp chúng tôi theo địa chỉ sau:
  
 Hoặc liên hệ theo số điện thoại được ghi dưới đây [**0918 870 780**](tel:+84918870780) (Thảo Nguyên). 
 
-Trong trường hợp mà gọi mãi vẫn không được, bạn hãy truy cập vào địa chỉ Facebook sau đây [**Bình hoa trang trí - Thương hiệu bình hoa cao cấp do Midorishop cung cấp**](https://www.facebook.com/dotrangtricuoi) đội ngũ quản trị sẽ tìm hiểu ra những vấn đề gặp phải và cố gắng khắc phục, hỗ trợ bạn trong suốt quá trình đó. Hãy an tâm tận hưởng dịch vụ của Chân nến trang trí - Thương hiệu Chân nến cao cấp do Midorishop cung cấp bạn nhé.
+Trong trường hợp mà gọi mãi vẫn không được, bạn hãy truy cập vào địa chỉ Facebook sau đây [**Chân nến trang trí - Thương hiệu chân nến cao cấp do Midorishop cung cấp**](https://www.facebook.com/dotrangtricuoi) đội ngũ quản trị sẽ tìm hiểu ra những vấn đề gặp phải và cố gắng khắc phục, hỗ trợ bạn trong suốt quá trình đó. Hãy an tâm tận hưởng dịch vụ của Chân nến trang trí - Thương hiệu Chân nến cao cấp do Midorishop cung cấp bạn nhé.
 
 Thân chào!
 Đội ngũ phát triển và hỗ trợ Khách Hàng
