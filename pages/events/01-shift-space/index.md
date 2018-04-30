@@ -1,19 +1,22 @@
----
+ï»¿---
 id: 1
-title: ShiftSpace
+title: BÃ¬nh máº«u má»›i 
 layout: EventPage
 category: events
 path: '/events/shiftspace/'
 key: shiftspace
 
-meta: ShiftSpace
-keywords: ShiftSpace
+meta: BÃ¬nh máº«u má»›i 
+keywords: binh hoa trang tri, chan nen trang tri, chan nen midorishop
 
-psyshine: http://bakadono.com
+psyshine: http://midorishop.com.vn
 ---
 
-Shift Space lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni quasi, inventore a pariatur fugiat tempore neque repudiandae sint unde ducimus eaque ratione recusandae ullam natus quaerat, esse omnis harum cum. Sapiente recusandae, aspernatur expedita ullam ipsum veniam quae ex ducimus dolorem ad saepe fugit cum repellat autem, sunt impedit dolor. Sequi fugiat iusto ducimus vel? Sapiente ipsum dolor sit amet, consectetur adipisicing elit. Eum officiis dicta, sunt. 
+BÃ¬nh máº«u má»›i Ä‘Ã£ vá» vÃ  cÃ¡c máº«u Ä‘Æ°á»£c iu thÃ­ch, nhanh nhanh Ä‘áº·t hÃ ng nha cÃ¡c báº¡n.
 
-Deserunt dolore nam odit rerum eligendi aliquid adipisci repellendus possimus excepturi aperiam cum quaerat quia quae nobis voluptatem.
+í ¼í¾¯í ¼í¾¯í ¼í¾¯GiÃ¡ láº» nhÆ° giÃ¡ sá»‰, giÃ¡ sá»‰ nhÆ° giÃ¡ xÆ°á»Ÿng. KhÃ¡ch hÃ ng cÃ³ nhu cáº§u mua bÃ¡n láº¡i inbox liÃªn há»‡ shop nhÃ©.
 
-BÃ i viáº¿t máº«u
+í ½í³í ½í³í ½í³Tel: 0918870780(viber/zalo)
+
+í ½íº™í ½íº™í ½íº™Äá»‹a chá»‰: 168A VÃµ Thá»‹ SÃ¡u,P8,Q3
+í ½íº›í ½íº›í ½íº›Hoáº·c : 118/49 Báº¡ch Äáº±ng, P24, Q.BÃ¬nh Tháº¡nh ( xe táº£i vÃ  oto Ä‘áº­u thoáº£i mÃ¡i)
