@@ -22,8 +22,13 @@ Quí khách có thể order thêm theo yêu cầu (tuỳ chọn màu sắc: Vàn
 nhiều màu sẵn có : Trắng, vàng, bạc, đồng, gold , rose gold 
 
 Ghế tiffany chất lượng cao đã về, vừa kịp cho khách hàng iu. Khách nào còn cần cho mùa cưới này liên hệ với em liền nhé. Hàng vẫn còn dư mỗi màu 1 ít nhé khách iu.
+
 Liên hệ xem mẫu: 168A Võ Thị Sáu,P8,Q3
+
 Lấy hàng tại: 118/49 Bạch Đằng,P24,Q.BT
+
 Hoặc 073 Biệt thự Ngân Long, đường Nguyễn Hữu Thọ, Q7. Xe tải vô thoải mái.
+
 Đt: 0918870780 (viber/zalo)
+
 02838204281
