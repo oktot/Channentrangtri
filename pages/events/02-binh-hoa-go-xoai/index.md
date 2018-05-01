@@ -14,7 +14,8 @@ psyshine: http://midorishop.com.vn
 
 Bình hoa gỗ xoài, thớt gỗ xoài, sắc nét và đẹp ko tưởng.
 
-Hàng hiện có tại: 168A Võ Thị Sáu,P8,Q3
+Hàng hiện có tại: 168A Võ Thị Sáu, P8, Q3
+
 Liên hệ mua sỉ: 0918870780(viber/zalo)
 
 ## Báo giá Sỉ Và Lẻ 
