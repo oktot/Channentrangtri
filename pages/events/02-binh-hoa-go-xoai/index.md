@@ -9,7 +9,7 @@ key: binh-hoa-go-xoai
 meta: Bình hoa gỗ xoài, thớt gỗ xoài
 keywords: Bình hoa gỗ xoài, thớt gỗ xoài
 
-psyshine: http://dendua.com/asinice
+psyshine: http://midorishop.com.vn
 ---
 
 Bình hoa gỗ xoài, thớt gỗ xoài, sắc nét và đẹp ko tưởng.
@@ -19,9 +19,5 @@ Liên hệ mua sỉ: 0918870780(viber/zalo)
 
 ## Báo giá Sỉ Và Lẻ 
 
-(Đơn Giá chưa bao gồm 10% thuế GTGT)
+- Khách Wedding cưới đơn hàng 10tr giảm 20%
 
-## Quy định chung
-
-Đơn hàng giá sỉ tối thiểu **1.500.000** Việt Nam đồng.
-Có **miễn phí** vận chuyển **toàn quốc** cho đơn hàng có giá trị trên **3.000.000** Việt Nam Đồng.
