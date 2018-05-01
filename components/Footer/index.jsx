@@ -1,10 +1,10 @@
-import React from 'react'
+﻿import React from 'react'
 import { prefixLink } from 'gatsby-helpers'
 
 import './style.scss'
-import iconEagle from '../../static/img/svg-icons/nihonsuruinline.svg'
-import iconKamon from '../../static/img/svg-icons/nihonsuruinline.svg'
-import iconBakaDono from '../../static/img/svg-icons/bakadono.svg'
+import iconEagle from '../../static/img/svg-icons/bakadono.svg'
+import iconKamon from '../../static/img/svg-icons/bakadono.svg'
+import iconBakaDono from '../../static/img/svg-icons/midori.svg'
 import { config } from 'config'
 
 class Footer extends React.Component {
