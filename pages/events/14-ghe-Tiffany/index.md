@@ -18,8 +18,10 @@ Cung cấp và cho thuê ghế tiffany tổ chức đám cưới, sự kiện ng
 
 Ghế Tiffany có sẳn màu trắng bạc, màu vàng đồng được trang trí nơ voan kết hợp với hoa tạo nên một buổi triệc sang trọng, ấn tượng nhất.
 
-Quí khách có thể order thêm theo yêu cầu (tuỳ chọn màu sắc: Vàng, Bạc, Đồng, Trắng ...) thời gian giao hàng từ 15-30 ngày với sản phẩm đặt hàng mới. Báo giá chi tiết vui lòng liên hệ Thảo Nguyên 0918870780
-nhiều màu sẵn có : Trắng, vàng, bạc, đồng, gold , rose gold 
+Quí khách có thể order thêm theo yêu cầu (tuỳ chọn màu sắc: Vàng, Bạc, Đồng, Trắng ...) thời gian giao hàng từ 15-30 ngày với sản phẩm đặt hàng mới. 
+
+Báo giá chi tiết vui lòng liên hệ Thảo Nguyên 0918870780
+nhiều màu sẵn có: Trắng, vàng, bạc, đồng, gold , rose gold 
 
 Ghế tiffany chất lượng cao đã về, vừa kịp cho khách hàng iu. Khách nào còn cần cho mùa cưới này liên hệ với em liền nhé. Hàng vẫn còn dư mỗi màu 1 ít nhé khách iu.
 
