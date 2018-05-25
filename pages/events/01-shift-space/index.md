@@ -14,9 +14,13 @@ psyshine: http://midorishop.com.vn
 
 Bรฌnh mแบซu mแปi ฤ‘รฃ vแป vร  cรกc mแบซu ฤ‘ฦฐแปฃc iu thรญch, nhanh nhanh ฤ‘แบทt hร ng nha cรกc bแบกn.
 
-ํ ผํพฏํ ผํพฏํ ผํพฏGiรก lแบป nhฦฐ giรก sแป, giรก sแป nhฦฐ giรก xฦฐแปng. Khรกch hร ng cรณ nhu cแบงu mua bรกn lแบกi inbox liรชn hแป shop nhรฉ.
 
-ํ ฝํณํ ฝํณํ ฝํณTel: 0918870780(viber/zalo)
+Giรก lแบป nhฦฐ giรก sแป, giรก sแป nhฦฐ giรก xฦฐแปng. Khรกch hร ng cรณ nhu cแบงu mua bรกn lแบกi inbox liรชn hแป shop nhรฉ.
 
-ํ ฝํบํ ฝํบํ ฝํบฤแปa chแป: 168A Vรต Thแป Sรกu,P8,Q3
-ํ ฝํบํ ฝํบํ ฝํบHoแบทc : 118/49 Bแบกch ฤแบฑng, P24, Q.Bรฌnh Thแบกnh ( xe tแบฃi vร  oto ฤ‘แบญu thoแบฃi mรกi)
+
+Tel: 0918870780(viber/zalo)
+
+
+ฤแปa chแป: 168A Vรต Thแป Sรกu,P8,Q3
+
+Hoแบทc : 118/49 Bแบกch ฤแบฑng, P24, Q.Bรฌnh Thแบกnh (xe tแบฃi vร  oto ฤ‘แบญu thoแบฃi mรกi)

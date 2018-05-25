@@ -14,14 +14,20 @@ psyshine: http://Midorishop.com.vn
 
 Giรก siรชu rแบป cho cรกc mแบซu bรฌnh hoa ฤ‘ฦฐแปฃc yรชu thรญch nhแบฅt trong nฤm 2018.
 
-ํ ฝํณขํ ฝํณขํ ฝํณขChฦฐฦกng trรฌnh ฦฐu ฤ‘รฃi cho khรกch hร ng Nhรขn dแปp lแป…, Shop Midori sแบฝ cรณ chฦฐฦกng trรฌnh hแบฅp dแบซn nhฦฐ sau:
 
-ํ ฝํณํ ฝํณํ ฝํณGiแบฃm tแบฅt cแบฃ cรกc mแบซu bรฌnh ฤ‘ฦฐแปฃc yรชu thรญch nhแบฅt.
-ํ ฝํณํ ฝํณํ ฝํณThแปi gian: tแปซ 30/4 - 1/5 (xuyรชn lแบฝ) 
+Chฦฐฦกng trรฌnh ฦฐu ฤ‘รฃi cho khรกch hร ng Nhรขn dแปp lแป…, Shop Midori sแบฝ cรณ chฦฐฦกng trรฌnh hแบฅp dแบซn nhฦฐ sau:
+
+
+Giแบฃm tแบฅt cแบฃ cรกc mแบซu bรฌnh ฤ‘ฦฐแปฃc yรชu thรญch nhแบฅt.
+
+Thแปi gian: tแปซ 30/4 - 1/5 (xuyรชn lแบฝ) 
 ( Shop sแบฝ nghแป lแบฝ tแปซ 28/4 ฤ‘แบฟn hแบฟt ngร y 2/5, shop sแบฝ giao hร ng tแปซ ngร y 2/5 cho nhแปฏng ฤ‘ฦกn hร ng ฤ‘แบทt trong nhแปฏng ngร y nghแป).
 
-ํ ฝํฑํ ฝํฑํ ฝํฑGiรก giแบฃm vร  kรญch thฦฐแปc ฤ‘ฦฐแปฃc ghi trรชn hรฌnh
 
-ํ ฝํบ—ํ ฝํบ—ฤแปa chแป: 168A Vรต Thแป Sรกu,P8,Q3
-ํ ฝํบํ ฝํบHoแบทc 118/49 Bแบกch ฤแบฑng,P24,Q.BT
-ํ ฝํฒํ ฝํฒฤt: 02838204281 - 0918870780(viber/zalo)
+Giรก giแบฃm vร  kรญch thฦฐแปc ฤ‘ฦฐแปฃc ghi trรชn hรฌnh
+
+ฤแปa chแป: 168A Vรต Thแป Sรกu,P8,Q3
+
+Hoแบทc 118/49 Bแบกch ฤแบฑng,P24,Q.BT
+
+ฤt: 02838204281 - 0918870780(viber/zalo)

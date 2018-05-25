@@ -18,5 +18,7 @@ Chân hoa #chânhoa đẹp lung linh luôn nè khách iu, chân nến #chânnế
 Chân nến ,chân hoa mẫu mới nhât 2018, dùng để trang trí bàn gallery, bàn tiệc.
 
 Địa chỉ: 168A Võ Thị Sáu,P8,Q3
+
 Hoặc: 118/49 Bạch Đằng,P24,Q.BT
+
 Đt: 0918870780 (viber/zalo)
